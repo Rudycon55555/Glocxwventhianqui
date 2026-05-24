@@ -1,1 +1,0 @@
-{"jarName":"apexcore-26.1.4.jar","modId":"apexcore","name":"ApexCore","version":"26.1.4","mixinConfigs":["META-INF/apexcore.mixins.json"],"jarJarMods":[{"jarName":"registree-26.1.0.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}],"curseForgeHash":2572093644,"modrinthHash":"2937360d97d1842437bacea68a822d71ce6e3af1"}
