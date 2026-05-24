@@ -1,0 +1,17 @@
+[rendering]
+	#If true, use legacy 1.20.1-style bullet trail rendering.
+	legacyBulletTrailEnabled = true
+	#If true, render the weapon ammo HUD in the lower-right corner.
+	showAmmoHud = true
+	#If true, render timer bars such as overheat and water cooling.
+	showTimersHud = true
+	#Custom gun crosshair id. Use default, jeg:dynamic, jeg:tech, or a texture id under textures/crosshair.
+	crosshair = "jeg:dynamic"
+	#If true, render a short marker when a bullet hits a living entity.
+	showHitmarker = true
+	#Dynamic crosshair dot mode: never, at_min_spread, threshold, always.
+	dynamicCrosshairDotMode = "at_min_spread"
+	#Spread threshold where the dynamic crosshair center dot is shown.
+	# Default: 0.8
+	# Range: 0.0 ~ 90.0
+	dynamicCrosshairDotThreshold = 0.8

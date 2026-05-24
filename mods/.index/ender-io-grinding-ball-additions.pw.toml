@@ -1,0 +1,29 @@
+filename = 'grindingballadditions-3.0.0.jar'
+name = 'Allthemodium - Ender IO Grinding Ball Additions'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'grindingballadditions-3.0.0.jar'
+
+[download]
+hash = '6d8ce69443275c4f76bdc09d375b12e1ad6bc138'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7962901
+project-id = 1432960
+
+[[x-prismlauncher-dependencies]]
+addonId = '1168314'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '64578'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '364466'
+type = 'REQUIRED'

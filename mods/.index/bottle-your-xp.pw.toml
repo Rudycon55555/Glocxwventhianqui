@@ -1,0 +1,21 @@
+filename = 'bottleyourxp-26.1.2-3.5.jar'
+name = 'Bottle Your Xp'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric/Forge/Neo] 26.1.2-3.5 | Bottle Your Xp'
+
+[download]
+hash = '1928bc98df0e5d3271119ebf4f94fcff07d77ff7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7902323
+project-id = 344020
+
+[[x-prismlauncher-dependencies]]
+addonId = '342584'
+type = 'REQUIRED'

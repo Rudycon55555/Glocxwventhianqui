@@ -1,0 +1,11 @@
+#556 minecraft:beach
+#4DB terralith:cave/fungal_caves
+#460 minecraft:cherry_grove
+#3D6 minecraft:cold_ocean
+#010 minecraft:forest
+#5E2 terralith:forested_highlands
+#78A terralith:gravel_beach
+#3DC minecraft:plains
+#5FF minecraft:river
+#4C8 terralith:shield
+#51A minecraft:stony_shore

@@ -1,0 +1,12 @@
+# If true, cost is in XP points; if false, cost is in XP levels.
+uses_points = true
+# Whether players are allowed to use automatic mode.
+automatic_mode_allowed = true
+# Whether the player must spend experience to disenchant.
+requires_experience = true
+# Resets the item's anvil repair cost after disenchanting.
+resets_repair_cost = true
+# Flat XP cost (points or levels) per disenchant.
+experience_cost = 25
+# Number of ticks AUTO mode takes to complete a disenchant.
+automatic_disenchanting_ticks = 100

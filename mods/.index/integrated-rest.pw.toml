@@ -1,0 +1,25 @@
+filename = 'integratedrest-26.1.2-neoforge-1.1.15.jar'
+name = 'Integrated REST'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'integratedrest-26.1.2-neoforge-1.1.15.jar'
+
+[download]
+hash = '9aa557de902f343f76ef6c887cb672eaf00bb94d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7982731
+project-id = 284332
+
+[[x-prismlauncher-dependencies]]
+addonId = '236307'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '232758'
+type = 'REQUIRED'

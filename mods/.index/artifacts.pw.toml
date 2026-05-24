@@ -1,0 +1,33 @@
+filename = 'artifacts-neoforge-15.0.0.jar'
+name = 'Artifacts'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'artifacts-neoforge-15.0.0.jar'
+
+[download]
+hash = 'aab67bb0d2310532edc72ee88d69bb782eba1bc1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7956096
+project-id = 312353
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1509777'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '938917'
+type = 'OPTIONAL'

@@ -1,0 +1,29 @@
+filename = 'integratedcrafting-26.1.2-neoforge-1.4.7-572.jar'
+name = 'Integrated Crafting'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'integratedcrafting-26.1.2-neoforge-1.4.7-572.jar'
+
+[download]
+hash = 'fbf0732e2b8772af72ef690a68e17fd09b3e19a2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8028260
+project-id = 287357
+
+[[x-prismlauncher-dependencies]]
+addonId = '251389'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '232758'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '236307'
+type = 'REQUIRED'

@@ -1,0 +1,5 @@
+[Gameplay]
+	#On world creation, the player is given an Aether Portal Frame item to automatically go to the Aether with
+	"Gives player Aether Portal Frame item" = false
+	"Alpha Message" = true
+	"Yellow Alpha Button" = true

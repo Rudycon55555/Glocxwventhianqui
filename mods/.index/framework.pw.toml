@@ -1,0 +1,25 @@
+filename = 'framework-neoforge-26.1.2-0.13.23.jar'
+name = 'Framework'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Framework 0.13.23'
+
+[download]
+hash = 'cfd15b80a72a499f964f12b6ee6f03bef4bf0aab'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7964506
+project-id = 549225
+
+[[x-prismlauncher-dependencies]]
+addonId = '459701'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '457570'
+type = 'OPTIONAL'

@@ -1,0 +1,25 @@
+filename = 'refinedstorage-jei-integration-neoforge-2.0.0.jar'
+name = 'Refined Storage - JEI Integration'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v2.0.0'
+
+[download]
+hash = '01be5e70b62238733de1af4a6d59c384a44d5af1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7920963
+project-id = 1230497
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '243076'
+type = 'REQUIRED'

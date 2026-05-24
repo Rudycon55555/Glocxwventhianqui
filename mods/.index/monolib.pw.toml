@@ -1,0 +1,18 @@
+filename = 'monolib-neoforge-26.1.2-4.0.2.jar'
+name = 'MonoLib'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neoforge-26.1.2-4.0.2'
+
+[download]
+hash = 'd5fa6c0f274e277711780a36cacd0bae549fcd7f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7974621
+project-id = 968432

@@ -1,0 +1,18 @@
+filename = '[26.1.2] SecurityCraft v1.10.1-beta3.jar'
+name = 'Security Craft'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[26.1.2] SecurityCraft v1.10.1-beta3.jar'
+
+[download]
+hash = '9eebb455a021170c54d948f04f7c4299dec7a049'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7973144
+project-id = 64760

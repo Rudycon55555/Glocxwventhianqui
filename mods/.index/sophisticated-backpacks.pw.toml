@@ -1,0 +1,49 @@
+filename = 'sophisticatedbackpacks-26.1.2-3.25.55.1739.jar'
+name = 'Sophisticated Backpacks'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'sophisticatedbackpacks-26.1.2-3.25.55.1739.jar'
+
+[download]
+hash = 'a244d7e79c7342717d7b1841049c1f9f4d60693b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8034904
+project-id = 422301
+
+[[x-prismlauncher-dependencies]]
+addonId = '456956'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '964817'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '233071'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '513769'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '235577'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '618298'
+type = 'REQUIRED'

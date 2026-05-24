@@ -1,0 +1,29 @@
+filename = 'more_tier_upgrade-1.1.0-mc26.1.x-neoforge.jar'
+name = 'More Tier Upgrade'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'more_tier_upgrade-1.1.0-mc26.1.x-neoforge.jar'
+
+[download]
+hash = 'f77cb055ee9670f9f404d9b4ea7714a4e52e73d4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7949952
+project-id = 1452020
+
+[[x-prismlauncher-dependencies]]
+addonId = '619320'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '618298'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '422301'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'toomanypaintings-26.03.29a+26.1-neoforge.jar'
+name = 'Too Many Paintings!'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Too Many Paintings! 26.03.29a - 26.1+'
+
+[download]
+hash = '60fb903295b8cd1e6b31732d3a348da21b6293b9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7910931
+project-id = 988773

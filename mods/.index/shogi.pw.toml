@@ -1,0 +1,18 @@
+filename = 'shogi-neoforge-26.1.2-26.1.2.3.jar'
+name = 'Shogi'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'shogi-neoforge-26.1.2-26.1.2.3.jar'
+
+[download]
+hash = 'c2a186c7ed66247c9af1f574667d259cdf9880c0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8021323
+project-id = 1475746

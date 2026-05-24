@@ -1,0 +1,6 @@
+# Toggles particles spawned during disenchanting.
+render_block_particles = true
+# Toggles the 'Insufficient Experience' warning in the screen.
+render_experience_cost = true
+# Toggles the display of the current item on the table.
+render_table_item = true

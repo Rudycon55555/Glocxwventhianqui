@@ -1,0 +1,1 @@
+{"jarName":"JsonThings-26.1.2-0.18.5.jar","modId":"jsonthings","name":"Json Things","version":"0.18.5","mixinConfigs":["jsonthings.mixins.json"],"jarJarMods":[{"jarName":"rhino-lib-1.0.1.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}],"curseForgeHash":276643308,"modrinthHash":"0568b3cd2274767e73a3b314e4665a94cda96854"}

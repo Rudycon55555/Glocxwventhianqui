@@ -1,0 +1,21 @@
+filename = 'forbidden_arcanus-26.1.2-2.7.0-beta.5.jar'
+name = 'Forbidden Arcanus'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'forbidden_arcanus-26.1.2-2.7.0-beta.5.jar'
+
+[download]
+hash = 'd7070a2037f23a766ba45804b0edcc048ead700f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8077869
+project-id = 309858
+
+[[x-prismlauncher-dependencies]]
+addonId = '416935'
+type = 'REQUIRED'

@@ -1,0 +1,33 @@
+filename = 'integratedterminals-26.1.2-neoforge-1.6.31-776.jar'
+name = 'Integrated Terminals'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'integratedterminals-26.1.2-neoforge-1.6.31-776.jar'
+
+[download]
+hash = '8e4c3a9dee2dcbd4b72c7ae56987f1e11dab633e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7982974
+project-id = 295910
+
+[[x-prismlauncher-dependencies]]
+addonId = '236307'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '287357'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '251389'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '232758'
+type = 'REQUIRED'

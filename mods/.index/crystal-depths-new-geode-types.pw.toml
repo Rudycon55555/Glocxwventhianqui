@@ -1,0 +1,18 @@
+filename = 'crystaldepths-1.1.0-neoforge-26.1.x.jar'
+name = 'Crystal Depths – New Geode Types'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'crystaldepths-1.1.0-neoforge-26.1.x.jar'
+
+[download]
+hash = '9cdf3e63dc48a4c0e04e247d45613373087b7e8b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7939221
+project-id = 1506069

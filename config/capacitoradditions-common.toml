@@ -1,0 +1,12 @@
+#Boost Factor for Allthemodium Capacitor
+# Default: 4.0
+# Range: 1.0 ~ 3.4028234663852886E38
+allthemodium_boost = 4.0
+#Boost Factor for Vibranium Capacitor
+# Default: 5.0
+# Range: 1.0 ~ 3.4028234663852886E38
+vibranium_boost = 5.0
+#Boost Factor for Unobtainium Capacitor
+# Default: 6.0
+# Range: 1.0 ~ 3.4028234663852886E38
+unobtainium_boost = 6.0

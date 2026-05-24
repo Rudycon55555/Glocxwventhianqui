@@ -1,0 +1,18 @@
+filename = 'material-lib-26.1.1.0.jar'
+name = 'Material Lib'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'material-lib-26.1.1.0.jar'
+
+[download]
+hash = '59674c98f3d50efeb1bad58cac44164c651c7313'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7951637
+project-id = 1422589

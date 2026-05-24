@@ -1,0 +1,21 @@
+filename = 'ftb-pack-companion-26.1.2.1-beta.jar'
+name = 'FTB Pack Companion'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[NEOFORGE] FTB Pack Companion 26.1.2.1-beta'
+
+[download]
+hash = 'fded49b0de519f0d91a9da70ba6b0ffed7f2f21e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7962142
+project-id = 693963
+
+[[x-prismlauncher-dependencies]]
+addonId = '404465'
+type = 'REQUIRED'

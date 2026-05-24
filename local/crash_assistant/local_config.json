@@ -1,0 +1,12 @@
+{
+	"shown_reasons": {
+		"MissingUnsupportedDependencies": true,
+		"ModuleResolution": true
+	},
+	"analysis": {
+		"jdeps": {
+			"include_nested": true,
+			"last_search": "graal"
+		}
+	}
+}

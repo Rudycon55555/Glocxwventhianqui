@@ -1,0 +1,41 @@
+filename = 'travelerscompass-neoforge-26.1.1-4.3.01.jar'
+name = "Traveler's Compass"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "[NeoForge]Traveler'sCompass-26.1.1-4.3.01"
+
+[download]
+hash = '29f272c5bd097e84fe7dc5dd95721b35c9ffc348'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7857409
+project-id = 954415
+
+[[x-prismlauncher-dependencies]]
+addonId = '361276'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '324717'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '310111'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '615106'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '245211'
+type = 'OPTIONAL'

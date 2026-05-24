@@ -1,0 +1,18 @@
+filename = 'mcw-stairs-1.0.2-mc26.1neoforge.jar'
+name = "Macaw's Stairs"
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.0.2 / mc26.1 - NeoForge'
+
+[download]
+hash = '5a71cc821449248a89684323f01710574e744983'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7809966
+project-id = 1119394

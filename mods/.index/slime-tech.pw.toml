@@ -1,0 +1,18 @@
+filename = 'slime_tech-0.1.44.jar'
+name = 'Slime Tech'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'slime_tech-0.1.44.jar'
+
+[download]
+hash = '21bb30d74818dd6fbe2dfb3bed937bd9c2f498cb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8075542
+project-id = 1536518

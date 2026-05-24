@@ -1,0 +1,21 @@
+filename = 'ftb-backups-3-26.1.2.1.jar'
+name = 'FTB Backups 3'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'FTB Backups 3 26.1.2.1'
+
+[download]
+hash = '9d28c0512ae37f0f32909d25b63e79cba22bfd73'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7925742
+project-id = 1294188
+
+[[x-prismlauncher-dependencies]]
+addonId = '404465'
+type = 'REQUIRED'

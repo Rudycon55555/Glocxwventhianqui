@@ -1,0 +1,18 @@
+filename = 'fun_fluids-2.1.1.jar'
+name = 'Functional Fluids'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'fun_fluids-2.1.1.jar'
+
+[download]
+hash = '4fc678ca949dbf5e224a97afb9a90063c4e05ed9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8079890
+project-id = 1374358

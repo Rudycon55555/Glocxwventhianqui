@@ -1,0 +1,18 @@
+filename = 'PrickleMC-neoforge-MC26.1.2-26.1.2.2.jar'
+name = 'Prickle'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'PrickleMC-neoforge-MC26.1.2-26.1.2.2.jar'
+
+[download]
+hash = '5640fd4e7e0dfb275a0bb41746f1d0315c03db1e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7947999
+project-id = 1023259

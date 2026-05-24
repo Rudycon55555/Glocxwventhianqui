@@ -1,0 +1,49 @@
+#Should the configurable fluid be invisible?
+cFVisibility = false
+#Should the configurable fluid support boats?
+cFBoating = true
+#Should the configurable fluid hydrate things?
+cFHydration = true
+#Should the configurable fluid be infinite?
+cFInfinite = true
+#Should the configurable fluid put out fires?
+cExtinguish = true
+#Should the configurable fluid evaporate in the nether?
+cFEvaporateInNether = false
+#Should players be able to ride under the configurable fluid?
+cFRideUnder = true
+#Can the configurable fluid drown players?
+cFDrown = true
+#Can you swim in the configurable fluid?
+cFSwim = true
+#How hard should the configurable fluid push? (values between 0 and 0.1 are normal)
+# Default: 0.05
+# Range: -100.0 ~ 100.0
+cFPushStrength = 0.05
+#Configurable fluid color (ARGB)?
+# Default: -12618012
+# Range: > -2147483648
+cFColor = -12618012
+#How much should the configurable fluid scale fall damage?
+# Default: 0
+# Range: > 0
+cFDamageMultiplier = 0
+#How much light should the configurable fluid emit?
+# Default: 0
+# Range: 0 ~ 15
+cFLight = 0
+#How responsive should the configurable fluid be (ticks, higher is slower)?
+# Default: 5
+# Range: 0 ~ 15
+cFResponsiveness = 5
+#How far should the configurable fluid look for height changes before deciding where to flow?
+# Default: 3
+# Range: 1 ~ 8
+cFHeightChangeDistance = 3
+#How rare should the configurable fluid be?
+#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, AETHER_II_CURRENCY, AETHER_II_TREASURE, AETHER_II_UPGRADED
+cFRarity = "EPIC"
+#Should flood blocks decay into regular water?
+floodDecays = true
+#HELP! I ignored the warnings! (Destroys, but does not reverse the effect of, Flood.)
+destroyFlood = false

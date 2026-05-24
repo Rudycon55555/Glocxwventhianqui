@@ -1,0 +1,18 @@
+filename = 'energizedpower-26.1.x-2.16.0-neoforge.jar'
+name = 'Energized Power'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Energized Power - 26.1.x - v2.16.0 [NeoForge]'
+
+[download]
+hash = '41690d0739deb47676cf1d633e197122b55a3ded'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8088376
+project-id = 782147

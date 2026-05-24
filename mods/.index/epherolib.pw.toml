@@ -1,0 +1,18 @@
+filename = 'epherolib-neoforge-26.1-1.3.0.jar'
+name = 'EpheroLib'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'epherolib-neoforge-26.1-1.3.0.jar'
+
+[download]
+hash = 'ad08ab39e5ecb5da862bdeedb75ffd5049119d91'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7937982
+project-id = 885449

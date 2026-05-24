@@ -1,0 +1,18 @@
+filename = 'homesteads-2.0.0-for-neoforge-26.1.2.jar'
+name = 'Homesteads - Villager Expansion & New Professions'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'homesteads-2.0.0-for-neoforge-26.1.2'
+
+[download]
+hash = '540bab12bca2c2ee9ddbdad368677d25815e1429'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7918864
+project-id = 1336255

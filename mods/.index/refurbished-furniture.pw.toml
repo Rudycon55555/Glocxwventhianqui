@@ -1,0 +1,26 @@
+filename = 'refurbished_furniture-neoforge-26.1.2-1.0.23.jar'
+name = "MrCrayfish's Furniture Mod: Refurbished"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '''
+MrCrayfish's Furniture Mod: Refurbished 1.0.23'''
+
+[download]
+hash = 'e9f650e87006401714b2e027d547d93647d0d51f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7943178
+project-id = 897116
+
+[[x-prismlauncher-dependencies]]
+addonId = '459701'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '549225'
+type = 'REQUIRED'

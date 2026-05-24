@@ -1,0 +1,18 @@
+filename = 'worldedit-hang-fix-v1.0.5-mc26.1.2.jar'
+name = 'WorldEdit Hang Fix'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[merged] worldedit-hang-fix v1.0.5 for mc26.1.2'
+
+[download]
+hash = '7651ec4ca5e994af4a1e63b3fa30f43d3d539265'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7941448
+project-id = 1122137

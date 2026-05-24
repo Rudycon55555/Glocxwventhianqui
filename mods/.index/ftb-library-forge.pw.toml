@@ -1,0 +1,21 @@
+filename = 'ftb-library-neoforge-26.1.2.3.jar'
+name = 'FTB Library'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'FTB Library Neoforge 26.1.2.3'
+
+[download]
+hash = 'f2bc23315801a04ffbe09d0173165e87f0967aa4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8073638
+project-id = 404465
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'

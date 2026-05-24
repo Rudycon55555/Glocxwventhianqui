@@ -1,0 +1,15 @@
+["WARNING - Changing These values can result in errors with villagers pathfinding / keeping professions when workstations are not near - Its recommended to change them before you start your world"]
+	#Work Station for Florist Villager
+	FloristWorkStation = "minecraft:flower_pot"
+	#Work Station for Miner Villager
+	MinerWorkStation = "minecraft:furnace"
+	#Work Station for Lumber Jack Villager
+	LumberJackWorkStation = "minecraft:crafting_table"
+	#Work Station for Engineer Villager
+	EngineerWorkStation = "minecraft:target"
+	#Work Station for Emberist Villager
+	EmberistWorkStation = "minecraft:respawn_anchor"
+	#Work Station for Archeologist Villager
+	ArcheologistWorkStation = "minecraft:suspicious_sand"
+	#Work Station for Tide Master Villager
+	TideMasterWorkStation = "minecraft:conduit"

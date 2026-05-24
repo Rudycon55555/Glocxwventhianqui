@@ -1,0 +1,25 @@
+filename = 'variantsandventures-neoforge-1.0.24+mc26.1.2.jar'
+name = 'Variants&Ventures'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Variants&Ventures 1.0.24'
+
+[download]
+hash = 'd3a1a1d20483111dfc465a9b8c2ed2a803720309'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8004298
+project-id = 981139
+
+[[x-prismlauncher-dependencies]]
+addonId = '667299'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '570073'
+type = 'REQUIRED'

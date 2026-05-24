@@ -1,0 +1,29 @@
+filename = 'universalgrid-neoforge-26.1.2-1.0.1.jar'
+name = 'Universal Grid'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'universalgrid-neoforge-26.1.2-1.0.1.jar'
+
+[download]
+hash = '149dedbc368fd22c60a964bde67e1c87189c05ea'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7986724
+project-id = 536160
+
+[[x-prismlauncher-dependencies]]
+addonId = '243076'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1230483'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'OPTIONAL'

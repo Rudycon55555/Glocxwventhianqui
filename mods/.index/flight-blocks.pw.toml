@@ -1,0 +1,18 @@
+filename = 'flightblocks-26.1.2-4.1.3.jar'
+name = 'Flight Blocks'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'BBL Flight Blocks - 26.1.2-4.1.3'
+
+[download]
+hash = 'b1a54227e5b7586471aed2f6a65c5178fafa33b9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8016098
+project-id = 1146799

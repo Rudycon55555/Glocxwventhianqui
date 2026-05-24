@@ -1,0 +1,18 @@
+filename = 'appleskin-neoforge-mc26.1-3.0.9.jar'
+name = 'AppleSkin'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.0.9+mc26.1'
+
+[download]
+hash = 'ee7fefd75542031e1bfdeeb89491e4a5064ebc53c551874fcd264f2377247ddbda999d0c4b9f99d49715094728db08441242f9de75881d6a840a90281c8685af'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EsAfCjCV/versions/i8MiVItH/appleskin-neoforge-mc26.1-3.0.9.jar'
+
+[update.modrinth]
+mod-id = 'EsAfCjCV'
+version = 'i8MiVItH'

@@ -1,0 +1,18 @@
+filename = 'mcw-paintings-1.1.0-mc26.1neoforge.jar'
+name = "Macaw's Paintings"
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.1.0 / mc26.1 - NeoForge'
+
+[download]
+hash = '455c0733ce7ce19ef5121ced2b1db216daafc163'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7845049
+project-id = 438116

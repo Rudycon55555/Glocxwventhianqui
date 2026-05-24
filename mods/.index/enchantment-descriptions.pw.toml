@@ -1,0 +1,21 @@
+filename = 'EnchantmentDescriptions-neoforge-MC26.1.2-26.1.2.1.jar'
+name = 'Enchantment Descriptions'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'EnchantmentDescriptions-neoforge-MC26.1.2-26.1.2.1.jar'
+
+[download]
+hash = 'aefd5ae1beb649baf57bbc669402cf6425ef9cb5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7927377
+project-id = 250419
+
+[[x-prismlauncher-dependencies]]
+addonId = '1023259'
+type = 'REQUIRED'

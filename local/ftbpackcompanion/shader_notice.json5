@@ -1,0 +1,4 @@
+{
+  // Default: false
+  has_onboarded: false,
+}

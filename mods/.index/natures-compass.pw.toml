@@ -1,0 +1,18 @@
+filename = 'NaturesCompass-26.1-3.3.0-neoforge.jar'
+name = "Nature's Compass"
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'NaturesCompass-26.1-3.3.0-neoforge.jar'
+
+[download]
+hash = '012493d8d90a14ff00f6d680af2ff2d5160c4930'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7808597
+project-id = 252848

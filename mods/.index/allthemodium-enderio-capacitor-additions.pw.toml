@@ -1,0 +1,29 @@
+filename = 'capacitoradditions-3.0.0.jar'
+name = 'Allthemodium - Ender IO Capacitor Additions'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'capacitoradditions-3.0.0.jar'
+
+[download]
+hash = 'c244ece88913e6d07a194168f07b2bfc82f70c3c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7957314
+project-id = 1168314
+
+[[x-prismlauncher-dependencies]]
+addonId = '1432960'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '364466'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '64578'
+type = 'REQUIRED'

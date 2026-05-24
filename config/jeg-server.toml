@@ -1,0 +1,195 @@
+[ui]
+	#If true, clients render the JEG gun crosshair while holding guns.
+	showCrosshair = true
+	#If true, clients display hit feedback markers when bullets hit living entities.
+	showHitFeedback = true
+
+[spawns]
+	#Base probability (0-1) that a naturally spawned Phantom upgrades into a Terror Phantom at early game.
+	# Default: 0.01
+	# Range: 0.0 ~ 1.0
+	terrorPhantomChance = 0.01
+	#Upper cap probability (0-1) for natural Terror Phantom conversion as game time increases.
+	# Default: 0.07
+	# Range: 0.0 ~ 1.0
+	terrorPhantomMaxChance = 0.07
+	#Base probability (0-1) that a naturally spawned Phantom upgrades into a Phantom Gunner (when not converted to Terror Phantom).
+	# Default: 0.12
+	# Range: 0.0 ~ 1.0
+	phantomGunnerChance = 0.12
+	#Upper cap probability (0-1) for Phantom Gunner conversion as game time increases.
+	# Default: 0.33
+	# Range: 0.0 ~ 1.0
+	phantomGunnerMaxChance = 0.33
+	#If true, Phantom Gunners explode when they die.
+	phantomGunnerDeathExplosionEnabled = true
+	#Base probability (0-1) that a naturally spawned Pillager converts into a Pillager Gunner.
+	# Default: 0.14
+	# Range: 0.0 ~ 1.0
+	pillagerGunnerChance = 0.14
+	#Upper cap probability (0-1) for Pillager Gunner conversion as game time increases.
+	# Default: 0.35
+	# Range: 0.0 ~ 1.0
+	pillagerGunnerMaxChance = 0.35
+	#Probability (0-1) that a naturally spawned Skeleton is flagged to receive a gun on spawn completion.
+	# Default: 0.14285714285714285
+	# Range: 0.0 ~ 1.0
+	skeletonGunnerChance = 0.14285714285714285
+	#Probability (0-1) that a naturally spawned Zombie converts into a Zombie Gunner. Should be lower than Skeleton Gunner chance.
+	# Default: 0.08333333333333333
+	# Range: 0.0 ~ 1.0
+	zombieGunnerChance = 0.08333333333333333
+	#Probability (0-1) that a naturally spawned Husk converts into a Husk Gunner. Same as Zombie Gunner chance.
+	# Default: 0.08333333333333333
+	# Range: 0.0 ~ 1.0
+	huskGunnerChance = 0.08333333333333333
+	#Probability (0-1) that a naturally spawned Parched converts into a Parched Gunner. Defaults to the Husk Gunner chance.
+	# Default: 0.08333333333333333
+	# Range: 0.0 ~ 1.0
+	parchedGunnerChance = 0.08333333333333333
+	#Probability (0-1) that a naturally spawned Zombified Piglin converts into a Zombified Piglin Gunner. Should be lower than Skeleton Gunner chance.
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	zombifiedPiglinGunnerChance = 0.1
+	#Probability (0-1) that a naturally spawned Piglin converts into a Piglin Gunner. Should be higher than Pillager Gunner chance.
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	piglinGunnerChance = 0.3
+	#Probability (0-1) that a naturally spawned Wither Skeleton converts into a Wither Skeleton Gunner. Wither Skeletons prefer heavy weapons.
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	witherSkeletonGunnerChance = 0.25
+	#In-game day when dynamic spawn scaling starts.
+	# Default: 3
+	# Range: 0 ~ 5000
+	spawnScalingStartDay = 3
+	#Number of in-game days from scaling start day to reach max spawn probabilities.
+	# Default: 28
+	# Range: 1 ~ 5000
+	spawnScalingDaysToMax = 28
+
+[combat]
+	#If true, firing a gun pushes the player backwards.
+	recoilBackstepEnabled = true
+	#Global multiplier for recoil backstep force. 0.5 means half of 1.20.1-like force.
+	# Default: 0.5
+	# Range: 0.0 ~ 2.0
+	recoilBackstepScale = 0.5
+	#If true, bullets hitting a block trigger the vanilla block hit particle animation event.
+	blockHitAnimationEnabled = true
+	#If true, bullets can destroy hit blocks based on penetration and bullet power rules.
+	bulletBlockDestructionEnabled = true
+	#If true, guns that support magazine swaps will reload from compatible magazines instead of using the legacy loose-ammo reload path.
+	magazineFeedEnabled = true
+	#If true, ground gunners can break and place low-tier blocks to get around simple terrain obstacles.
+	gunnerTerrainInteractionEnabled = true
+	#Maximum bulletproof tier ground gunners are allowed to break while traversing terrain. 0 = penetrable only, 2 = tier 2 and below.
+	# Default: 2
+	# Range: 0 ~ 3
+	gunnerTerrainInteractionMaxTier = 2
+	#In-game day when gunner accuracy scaling starts.
+	# Default: 5
+	# Range: 0 ~ 5000
+	gunnerAccuracyStartDay = 5
+	#In-game day when gunner accuracy reaches configured max value.
+	# Default: 60
+	# Range: 1 ~ 5000
+	gunnerAccuracyMaxDay = 60
+	#Late-game gunner accuracy increase as a percent from the day-5 spread baseline. 0.70 means 70% more accurate.
+	# Default: 0.7
+	# Range: 0.0 ~ 0.95
+	gunnerAccuracyMaxPercent = 0.7
+	#Additional spread multiplier for gunner-fired shotguns. Lower = tighter pellet grouping.
+	# Default: 0.82
+	# Range: 0.2 ~ 1.0
+	gunnerShotgunSpreadMultiplier = 0.82
+	#In-game day when gunner weapon strength, armor chance, and armor tier reach their maximum.
+	# Default: 60
+	# Range: 1 ~ 5000
+	gunnerProgressionMaxDay = 60
+	#Ticks without qualifying minigun/light machine gun hits before Terror Phantom rapid-fire resistance resets.
+	# Default: 25
+	# Range: 1 ~ 200
+	terrorPhantomRapidFireResistanceResetTicks = 25
+	#Qualifying hits at the start of each burst before Terror Phantom rapid-fire resistance reduces damage.
+	# Default: 10
+	# Range: 0 ~ 200
+	terrorPhantomRapidFireResistanceWarmupHits = 10
+	#Extra damage multiplier for player minigun hits after Terror Phantom rapid-fire resistance warms up. 1.0 disables this extra resistance.
+	# Default: 0.18
+	# Range: 0.01 ~ 1.0
+	terrorPhantomMinigunRapidFireDamageMultiplier = 0.18
+	#Extra damage multiplier for player light machine gun hits after Terror Phantom rapid-fire resistance warms up. 1.0 disables this extra resistance.
+	# Default: 0.35
+	# Range: 0.01 ~ 1.0
+	terrorPhantomLightMachineGunRapidFireDamageMultiplier = 0.35
+	#Global bullet lifetime in seconds. Applies to all bullets.
+	# Default: 60
+	# Range: 1 ~ 3600
+	bulletLifetimeSeconds = 60
+
+[terrorRaid]
+	#Seconds between Terror Raid waves.
+	# Default: 18
+	# Range: 3 ~ 120
+	waveIntervalSeconds = 18
+	#Total ground raid waves triggered by Terror Phantom death.
+	# Default: 4
+	# Range: 1 ~ 10
+	groundWaveCount = 4
+	#Total air raid waves triggered by Bound Terror Phantom death.
+	# Default: 4
+	# Range: 1 ~ 10
+	airWaveCount = 4
+
+[factionPatrol]
+	#If true, faction patrols spawn naturally and command-spawned patrols show encounter boss bars.
+	enabled = true
+	#Fixed patrol interval in days. Set to 0 to use random interval ticks.
+	# Default: 5
+	# Range: 0 ~ 30
+	intervalDays = 5
+	#Minimum random patrol interval in ticks when intervalDays is 0.
+	# Default: 12000
+	# Range: > 1
+	randomIntervalMinTicks = 12000
+	#Maximum random patrol interval in ticks when intervalDays is 0.
+	# Default: 24000
+	# Range: > 1
+	randomIntervalMaxTicks = 24000
+	#Minimum in-game days before patrols can naturally spawn.
+	# Default: 5
+	# Range: 0 ~ 100
+	minimumDays = 5
+	#Range in blocks where patrol boss bars are visible.
+	# Default: 64
+	# Range: 16 ~ 256
+	bossBarRange = 64
+	#Probability (0-1) that a patrol attempt actually spawns once all other patrol conditions pass.
+	# Default: 0.35
+	# Range: 0.0 ~ 1.0
+	spawnChance = 0.35
+
+[factionRaid]
+	#If true, faction raids can spawn naturally and by returning home with Faction Omen.
+	enabled = true
+	#Fixed raid interval in days. Set to 0 to use random interval ticks.
+	# Default: 30
+	# Range: 0 ~ 100
+	intervalDays = 30
+	#Minimum random raid interval in ticks when intervalDays is 0.
+	# Default: 12000
+	# Range: > 1
+	randomIntervalMinTicks = 12000
+	#Maximum random raid interval in ticks when intervalDays is 0.
+	# Default: 24000
+	# Range: > 1
+	randomIntervalMaxTicks = 24000
+	#Minimum in-game days before natural raids can spawn.
+	# Default: 15
+	# Range: 0 ~ 100
+	minimumDays = 15
+	#Radius around player's respawn point that triggers a faction raid when Faction Omen is active.
+	# Default: 48
+	# Range: 8 ~ 256
+	homeTriggerRadius = 48

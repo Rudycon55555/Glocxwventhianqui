@@ -1,0 +1,18 @@
+filename = 'valhelsia_core-neoforge-26.1.2-1.1.6.jar'
+name = 'Valhelsia Core'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge] Valhelsia Core - 1.1.6'
+
+[download]
+hash = '4888a345b4f0406ecf68afbae4c555a9e67fb6db'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7916512
+project-id = 416935

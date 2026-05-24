@@ -1,0 +1,21 @@
+filename = 'aether_ii-26.1.2-alpha.3.1-neoforge.jar'
+name = 'The Aether II'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '26.1.2-alpha.3.1-neoforge'
+
+[download]
+hash = '70e9d42988147f69e4f73c55f6d45b47db260745c72293ba077165ab4cfbc087fd3ff5d6e28603c30ab976d65b5128ab90c4ee6fc3ffdd0971d340e3282fbb13'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JD2NSu5O/versions/RzEI1diB/aether_ii-26.1.2-alpha.3.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'JD2NSu5O'
+version = 'RzEI1diB'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'sq1f0DCq'
+type = 'EMBEDDED'

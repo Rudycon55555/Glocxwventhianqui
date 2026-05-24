@@ -1,0 +1,25 @@
+filename = 'refinedstorage-curios-integration-2.0.1.jar'
+name = 'Refined Storage - Curios Integration'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v2.0.1'
+
+[download]
+hash = '3b01dc65ed8ddcefd8cca27116004497d9d655c6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7999815
+project-id = 1230729
+
+[[x-prismlauncher-dependencies]]
+addonId = '243076'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'

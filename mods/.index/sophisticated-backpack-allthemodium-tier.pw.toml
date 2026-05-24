@@ -1,0 +1,25 @@
+filename = 'backpack_allthemodium_upgrade-3.0.jar'
+name = 'Sophisticated Backpack Allthemodium Tier'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'backpack_allthemodium_upgrade-3.0.jar'
+
+[download]
+hash = 'afa0f58d38a7b4d94a13c026463d261ad97b83f3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8067469
+project-id = 1198838
+
+[[x-prismlauncher-dependencies]]
+addonId = '364466'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '422301'
+type = 'REQUIRED'

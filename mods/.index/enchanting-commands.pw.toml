@@ -1,0 +1,21 @@
+filename = 'enchantingcommands-26.1.2-3.5.jar'
+name = 'Enchanting Commands'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric/Forge/Neo] 26.1.2-3.5 | Enchanting Commands'
+
+[download]
+hash = '26991f645e4241af0f33acf5d0f0028a6bad5909'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7902231
+project-id = 341721
+
+[[x-prismlauncher-dependencies]]
+addonId = '342584'
+type = 'REQUIRED'

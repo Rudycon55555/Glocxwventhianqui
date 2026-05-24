@@ -1,0 +1,18 @@
+filename = 'Incendium_26.1_v5.4.12.jar'
+name = 'Incendium'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '5.4.12'
+
+[download]
+hash = 'e2fe0e64b2228cd4a5c0af63a8943c1c958c586378e5e9d22be6b4fee82871bf1098a0e91cf34aa80df9d6c9ba03f2e36148748dc555ab63e1482ffc912e3530'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZVzW5oNS/versions/dmD183NM/Incendium_26.1_v5.4.12.jar'
+
+[update.modrinth]
+mod-id = 'ZVzW5oNS'
+version = 'dmD183NM'

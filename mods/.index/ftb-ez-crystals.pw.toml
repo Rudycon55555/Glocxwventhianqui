@@ -1,0 +1,18 @@
+filename = 'ftb-ez-crystals-26.1.2.1.jar'
+name = 'FTB Ez Crystals'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'ftb-ez-crystals 26.1.2.1'
+
+[download]
+hash = '5f7add437be004ed91b014f5fcce8398cb573138'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7925172
+project-id = 1271909

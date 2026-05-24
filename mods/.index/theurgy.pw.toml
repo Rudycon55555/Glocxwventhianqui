@@ -1,0 +1,33 @@
+filename = 'theurgy-26.1.2-neoforge-1.95.0.jar'
+name = 'Theurgy'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'theurgy-26.1.2-neoforge-1.95.0.jar'
+
+[download]
+hash = '1ca2b2d443ee32c79a393224e7ec9c3c208daf01'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8091546
+project-id = 430636
+
+[[x-prismlauncher-dependencies]]
+addonId = '538392'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '324717'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'

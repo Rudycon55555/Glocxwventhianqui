@@ -1,0 +1,18 @@
+filename = 'geckolib-neoforge-26.1.2-5.5.1.jar'
+name = 'GeckoLib'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'NeoForge 5.5.1'
+
+[download]
+hash = 'ea53340011e1794bfdd01e3dc5fdef83afd83d1c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7913641
+project-id = 388172

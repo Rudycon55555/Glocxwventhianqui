@@ -1,0 +1,18 @@
+filename = 'guideme-26.1.10-alpha.jar'
+name = 'GuideME'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = 'GuideME 26.1.10-alpha'
+
+[download]
+hash = '235ea6fd617861509667b4d11aca0e4c887aa8b9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7929350
+project-id = 1173950

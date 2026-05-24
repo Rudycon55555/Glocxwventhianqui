@@ -1,0 +1,1451 @@
+["Lumber Jack Trades"]
+	#Number of Logs Lumber Jacks trade
+	# Default: 4
+	# Range: 1 ~ 64
+	LogAmount = 4
+	#Price of Logs Lumber Jacks trade
+	# Default: 6
+	# Range: 1 ~ 64
+	LogPrice = 6
+	#Number of Slabs Lumber Jacks trade
+	# Default: 6
+	# Range: 1 ~ 64
+	SlabAmount = 6
+	#Price of Slabs Lumber Jacks trade
+	# Default: 4
+	# Range: 1 ~ 64
+	SlabPrice = 4
+	#Number of Stairs Lumber Jacks trade
+	# Default: 6
+	# Range: 1 ~ 64
+	StairsAmount = 6
+	#Price of Stairs Lumber Jacks trade
+	# Default: 3
+	# Range: 1 ~ 64
+	StairsPrice = 3
+	#Number of Hanging Signs Lumber Jacks trade
+	# Default: 1
+	# Range: 1 ~ 64
+	HangingSignsAmount = 1
+	#Price of Hanging Signs Lumber Jacks trade
+	# Default: 2
+	# Range: 1 ~ 64
+	HangingSignsPrice = 2
+	#Number of Signs Lumber Jacks trade
+	# Default: 1
+	# Range: 1 ~ 64
+	SignsAmount = 1
+	#Price of Signs Lumber Jacks trade
+	# Default: 2
+	# Range: 1 ~ 64
+	SignsPrice = 2
+	#Number of Fence Gates Lumber Jacks trade
+	# Default: 1
+	# Range: 1 ~ 64
+	FenceGatesAmount = 1
+	#Price of Fence Gates Lumber Jacks trade
+	# Default: 2
+	# Range: 1 ~ 64
+	FenceGatesPrice = 2
+	#Number of Boats Lumber Jacks trade
+	# Default: 1
+	# Range: 1 ~ 64
+	BoatsAmount = 1
+	#Price of Boats Lumber Jacks trade
+	# Default: 6
+	# Range: 1 ~ 64
+	BoatsPrice = 6
+	#Number of Fences Lumber Jacks trade
+	# Default: 3
+	# Range: 1 ~ 64
+	FencesAmount = 3
+	#Price of Fences Lumber Jacks trade
+	# Default: 5
+	# Range: 1 ~ 64
+	FencesPrice = 5
+	#Number of Pressure Plates Lumber Jacks trade
+	# Default: 2
+	# Range: 1 ~ 64
+	PressurePlatesAmount = 2
+	#Price of Pressure Plates Lumber Jacks trade
+	# Default: 4
+	# Range: 1 ~ 64
+	PressurePlatesPrice = 4
+	#Number of Buttons Lumber Jacks trade
+	# Default: 6
+	# Range: 1 ~ 64
+	ButtonsAmount = 6
+	#Price of Buttons Lumber Jacks trade
+	# Default: 2
+	# Range: 1 ~ 64
+	ButtonsPrice = 2
+	#Number of Doors Lumber Jacks trade
+	# Default: 3
+	# Range: 1 ~ 64
+	DoorsAmount = 3
+	#Price of Doors Lumber Jacks trade
+	# Default: 6
+	# Range: 1 ~ 64
+	DoorsPrice = 6
+	#Number of Trapdoors Lumber Jacks trade
+	# Default: 2
+	# Range: 1 ~ 64
+	TrapdoorsAmount = 2
+	#Price of Trapdoors Lumber Jacks trade
+	# Default: 4
+	# Range: 1 ~ 64
+	TrapdoorsPrice = 4
+
+["Florist Trades"]
+	#Number of Leaves Florist trade
+	# Default: 16
+	# Range: 1 ~ 64
+	LeavesAmount = 16
+	#Price of Leaves Florist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	LeavesPrice = 2
+	#Number of Saplings Florist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	SaplingsAmount = 1
+	#Price of Saplings Florist trade
+	# Default: 5
+	# Range: 1 ~ 64
+	SaplingsPrice = 5
+	#Number of Flowers Florist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	FlowersAmount = 2
+	#Price of Flowers Florist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	FlowersPrice = 2
+	#Number of Vines Florist trade
+	# Default: 6
+	# Range: 1 ~ 64
+	VinesAmount = 6
+	#Price of Vines Florist trade
+	# Default: 3
+	# Range: 1 ~ 64
+	VinesPrice = 3
+	#Number of Small Dripleaf Florist trade
+	# Default: 5
+	# Range: 1 ~ 64
+	SmallDripleafAmount = 5
+	#Price of Vines Dripleaf trade
+	# Default: 1
+	# Range: 1 ~ 64
+	SmallDripleafPrice = 1
+	#Number of Hanging Roots Florist trade
+	# Default: 6
+	# Range: 1 ~ 64
+	HangingRootsAmount = 6
+	#Price of Hanging Roots Florist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	HangingRootsPrice = 2
+	#Number of Large Fern Florist trade
+	# Default: 12
+	# Range: 1 ~ 64
+	LargeFernAmount = 12
+	#Price of Large Fern Florist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	LargeFernPrice = 1
+	#Number of Tall Grass Florist trade
+	# Default: 12
+	# Range: 1 ~ 64
+	TallGrassAmount = 12
+	#Price of Tall Grass Florist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	TallGrassPrice = 1
+	#Number of Firefly Bush Florist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	FireflyBushAmount = 4
+	#Price of Firefly Bush Florist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	FireflyBushPrice = 1
+	#Number of Bush Florist trade
+	# Default: 5
+	# Range: 1 ~ 64
+	BushAmount = 5
+	#Price of Bush Florist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	BushPrice = 2
+	#Number of Short Grass Florist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	ShortGrassAmount = 4
+	#Price of Short Grass Florist trade
+	# Default: 3
+	# Range: 1 ~ 64
+	ShortGrassPrice = 3
+	#Number of Fern Florist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	FernAmount = 4
+	#Price of Fern Florist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	FernPrice = 2
+	#Number of Sweet Berries Florist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	SweetBerriesAmount = 4
+	#Price of Sweet Berries Florist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	SweetBerriesPrice = 2
+	#Number of Pumpkin Seeds Florist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	PumpkinSeedsAmount = 4
+	#Price of Pumpkin Seeds Florist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	PumpkinSeedsPrice = 2
+	#Number of Melon Seeds Florist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	MelonSeedsAmount = 4
+	#Price of Melon Seeds Florist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	MelonSeedsPrice = 2
+	#Number of Cactus Florist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	CactusAmount = 4
+	#Price of Cactus Florist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	CactusPrice = 2
+	#Number of Sugar Cane Florist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	SugarCaneAmount = 4
+	#Price of Sugar Cane Florist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	SugarCanePrice = 2
+	#Number of Bamboo Florist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	BambooAmount = 4
+	#Price of Bamboo Florist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	BambooPrice = 2
+	#Number of Beetroot Seeds Florist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	BeetrootSeedsAmount = 4
+	#Price of Beetroot Seeds Florist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	BeetrootSeedsPrice = 2
+	#Number of Wheat Seeds Florist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	WheatSeedsAmount = 4
+	#Price of Wheat Seeds Florist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	WheatSeedsPrice = 2
+	#Number of Carrot Florist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	CarrotAmount = 4
+	#Price of Carrot Florist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	CarrotPrice = 2
+	#Number of Potato Florist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	PotatoAmount = 4
+	#Price of Potato Florist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	PotatoPrice = 2
+
+["Archeologist Trades"]
+	#Number of Wheat Archeologist buy
+	# Default: 26
+	# Range: 1 ~ 64
+	WheatBuyAmount = 26
+	#Number of Emeralds Archeologist trade Wheat for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForWheat = 1
+	#Number of Bricks Archeologist buy
+	# Default: 12
+	# Range: 1 ~ 64
+	BrickBuyAmount = 12
+	#Number of Emeralds Archeologist trade Bricks for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForBricks = 1
+	#Number of Yellow Dye Archeologist buy
+	# Default: 12
+	# Range: 1 ~ 64
+	YellowDyeBuyAmount = 12
+	#Number of Emeralds Archeologist trade Yellow Dye for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForYellowDye = 1
+	#Number of Blue Dye Archeologist buy
+	# Default: 12
+	# Range: 1 ~ 64
+	BlueDyeBuyAmount = 12
+	#Number of Emeralds Archeologist trade Blue Dye for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForBlueDye = 1
+	#Number of Light Blue Dye Archeologist buy
+	# Default: 12
+	# Range: 1 ~ 64
+	LightBlueDyeBuyAmount = 12
+	#Number of Emeralds Archeologist trade Light Blue Dye for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForLightBlueDye = 1
+	#Number of White Dye Archeologist buy
+	# Default: 12
+	# Range: 1 ~ 64
+	WhiteDyeBuyAmount = 12
+	#Number of Emeralds Archeologist trade White Dye for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForWhiteDye = 1
+	#Number of Orange Dye Archeologist buy
+	# Default: 12
+	# Range: 1 ~ 64
+	OrangeDyeBuyAmount = 12
+	#Number of Emeralds Archeologist trade Orange Dye for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForOrangeDye = 1
+	#Number of Magenta Glass Pane Archeologist buy
+	# Default: 32
+	# Range: 1 ~ 64
+	MagentaGlassPaneBuyAmount = 32
+	#Number of Emeralds Archeologist trade Magenta Glass Pane for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForMagentaGlassPane = 1
+	#Number of Pink Glass Pane Archeologist buy
+	# Default: 32
+	# Range: 1 ~ 64
+	PinkGlassPaneBuyAmount = 32
+	#Number of Emeralds Archeologist trade Pink Glass Pane for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForPinkGlassPane = 1
+	#Number of Blue Glass Pane Archeologist buy
+	# Default: 32
+	# Range: 1 ~ 64
+	BlueGlassPaneBuyAmount = 32
+	#Number of Emeralds Archeologist trade Blue Glass Pane for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForBlueGlassPane = 1
+	#Number of Light Blue Glass Pane Archeologist buy
+	# Default: 32
+	# Range: 1 ~ 64
+	LightBlueGlassPaneBuyAmount = 32
+	#Number of Emeralds Archeologist trade Light Blue Glass Pane for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForLightBlueGlassPane = 1
+	#Number of Red Glass Pane Archeologist buy
+	# Default: 32
+	# Range: 1 ~ 64
+	RedGlassPaneBuyAmount = 32
+	#Number of Emeralds Archeologist trade Red Glass Pane for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForRedGlassPane = 1
+	#Number of Yellow Glass Pane Archeologist buy
+	# Default: 32
+	# Range: 1 ~ 64
+	YellowGlassPaneBuyAmount = 32
+	#Number of Emeralds Archeologist trade Yellow Glass Pane for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForYellowGlassPane = 1
+	#Number of Purple Glass Pane Archeologist buy
+	# Default: 32
+	# Range: 1 ~ 64
+	PurpleGlassPaneBuyAmount = 32
+	#Number of Emeralds Archeologist trade Purple Glass Pane for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForPurpleGlassPane = 1
+	#Number of Oak Hanging Sign Archeologist buy
+	# Default: 8
+	# Range: 1 ~ 64
+	OakHangingSignBuyAmount = 8
+	#Number of Emeralds Archeologist trade Oak Hanging Sign for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForOakHangingSign = 1
+	#Number of Spruce Hanging Sign Archeologist buy
+	# Default: 8
+	# Range: 1 ~ 64
+	SpruceHangingSignBuyAmount = 8
+	#Number of Emeralds Archeologist trade Spruce Hanging Sign for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForSpruceHangingSign = 1
+	#Number of Coal Archeologist buy
+	# Default: 24
+	# Range: 1 ~ 64
+	CoalBuyAmount = 24
+	#Number of Emeralds Archeologist trade Coal for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForCoal = 1
+	#Number of Flower Pot Archeologist buy
+	# Default: 16
+	# Range: 1 ~ 64
+	FlowerPotBuyAmount = 16
+	#Number of Emeralds Archeologist trade Flower Pot for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForFlowerPot = 1
+	#Number of String Archeologist buy
+	# Default: 18
+	# Range: 1 ~ 64
+	StringBuyAmount = 18
+	#Number of Emeralds Archeologist trade String for
+	# Default: 1
+	# Range: 1 ~ 64
+	EmeraldAmountForString = 1
+	#Number of Clay Archeologist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	ClayAmount = 4
+	#Price of Clay Archeologist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	ClayPrice = 1
+	#Number of Gunpowder Archeologist trade
+	# Default: 3
+	# Range: 1 ~ 64
+	GunpowderAmount = 3
+	#Price of Gunpowder Archeologist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	GunpowderPrice = 1
+	#Number of TNT Archeologist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	TNTAmount = 1
+	#Price of TNT Archeologist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	TNTPrice = 1
+	#Number of Suspicious Stew Archeologist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	SuspiciousStewAmount = 1
+	#Price of Suspicious Stew Archeologist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	SuspiciousStewPrice = 1
+	#Number of Iron Axe Archeologist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	IronAxeAmount = 1
+	#Price of Iron Axe Archeologist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	IronAxePrice = 1
+	#Number of Coal Archeologist trade
+	# Default: 6
+	# Range: 1 ~ 64
+	CoalAmount = 6
+	#Price of Coal Archeologist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	CoalPrice = 1
+	#Number of Sniffer Egg Archeologist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	SnifferEggAmount = 1
+	#Price of Sniffer Egg Archeologist trade
+	# Default: 24
+	# Range: 1 ~ 64
+	SnifferEggPrice = 24
+	#Price of Ocean Ruin Map Archeologist trade
+	# Default: 13
+	# Range: 1 ~ 64
+	OceanRuinMapPrice = 13
+	#Price of Desert Temple Map Archeologist trade
+	# Default: 13
+	# Range: 1 ~ 64
+	DesertTempleMapPrice = 13
+	#Price of Trail Ruins Map Archeologist trade
+	# Default: 13
+	# Range: 1 ~ 64
+	TrailRuinsMapPrice = 13
+	#Number of Sherds Archeologist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	SherdsAmount = 1
+	#Price of Sherds Archeologist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	SherdsPrice = 4
+	#Number of Armor Template Archeologist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	ArmorTemplateAmount = 1
+	#Price of Armor Template Archeologist trade
+	# Default: 64
+	# Range: 1 ~ 64
+	ArmorTemplatePrice = 64
+
+["Miner Trades"]
+	#Number of Stone for Miner trade
+	# Default: 12
+	# Range: 1 ~ 64
+	StoneAmount = 12
+	#Price of Stone for Miner trade
+	# Default: 4
+	# Range: 1 ~ 64
+	StonePrice = 4
+	#Number of Ores for Miner trade
+	# Default: 2
+	# Range: 1 ~ 64
+	OreAmount = 2
+	#Price of Ores for Miner trade
+	# Default: 6
+	# Range: 1 ~ 64
+	OrePrice = 6
+	#Number of Moss Block for Miner trade
+	# Default: 4
+	# Range: 1 ~ 64
+	MossBlockAmount = 4
+	#Price of Moss Block for Miner trade
+	# Default: 2
+	# Range: 1 ~ 64
+	MossBlockPrice = 2
+	#Number of Moss Carpet for Miner trade
+	# Default: 6
+	# Range: 1 ~ 64
+	MossCarpetAmount = 6
+	#Price of Moss Carpet for Miner trade
+	# Default: 1
+	# Range: 1 ~ 64
+	MossCarpetPrice = 1
+	#Number of Amethyst Block for Miner trade
+	# Default: 2
+	# Range: 1 ~ 64
+	AmethystBlockAmount = 2
+	#Price of Amethyst Block for Miner trade
+	# Default: 4
+	# Range: 1 ~ 64
+	AmethystBlockPrice = 4
+	#Number of Cobweb for Miner trade
+	# Default: 3
+	# Range: 1 ~ 64
+	CobwebAmount = 3
+	#Price of Cobweb for Miner trade
+	# Default: 8
+	# Range: 1 ~ 64
+	CobwebPrice = 8
+	#Number of Glow Berries for Miner trade
+	# Default: 8
+	# Range: 1 ~ 64
+	GlowBerriesAmount = 8
+	#Price of Glow Berries for Miner trade
+	# Default: 2
+	# Range: 1 ~ 64
+	GlowBerriesPrice = 2
+	#Number of Pointed Dripstone for Miner trade
+	# Default: 8
+	# Range: 1 ~ 64
+	PointedDripstoneAmount = 8
+	#Price of Pointed Dripstone for Miner trade
+	# Default: 3
+	# Range: 1 ~ 64
+	PointedDripstonePrice = 3
+	#Number of Dripstone Block for Miner trade
+	# Default: 1
+	# Range: 1 ~ 64
+	DripstoneBlockAmount = 1
+	#Price of Dripstone Block for Miner trade
+	# Default: 3
+	# Range: 1 ~ 64
+	DripstoneBlockPrice = 3
+	#Number of Sculk for Miner trade
+	# Default: 4
+	# Range: 1 ~ 64
+	SculkAmount = 4
+	#Price of Sculk for Miner trade
+	# Default: 4
+	# Range: 1 ~ 64
+	SculkPrice = 4
+	#Number of Sculk Sensor for Miner trade
+	# Default: 1
+	# Range: 1 ~ 64
+	SculkSensorAmount = 1
+	#Price of Sculk Sensor for Miner trade
+	# Default: 8
+	# Range: 1 ~ 64
+	SculkSensorPrice = 8
+	#Number of Sculk Catalyst for Miner trade
+	# Default: 1
+	# Range: 1 ~ 64
+	SculkCatalystAmount = 1
+	#Price of Sculk Catalyst for Miner trade
+	# Default: 16
+	# Range: 1 ~ 64
+	SculkCatalystPrice = 16
+	#Number of Sculk Shrieker for Miner trade
+	# Default: 1
+	# Range: 1 ~ 64
+	SculkShriekerAmount = 1
+	#Price of Sculk Shrieker for Miner trade
+	# Default: 24
+	# Range: 1 ~ 64
+	SculkShriekerPrice = 24
+	#Number of Sculk Vein for Miner trade
+	# Default: 6
+	# Range: 1 ~ 64
+	SculkVeinAmount = 6
+	#Price of Sculk Vein for Miner trade
+	# Default: 3
+	# Range: 1 ~ 64
+	SculkVeinPrice = 3
+	#Number of Budding Amethyst for Miner trade
+	# Default: 1
+	# Range: 1 ~ 64
+	BuddingAmethystAmount = 1
+	#Price of Budding Amethyst for Miner trade
+	# Default: 64
+	# Range: 1 ~ 64
+	BuddingAmethystPrice = 64
+
+["Engineer Trades"]
+	#Number of Redstone for Engineer trade
+	# Default: 8
+	# Range: 1 ~ 64
+	RedstoneAmount = 8
+	#Price of Redstone for Engineer trade
+	# Default: 2
+	# Range: 1 ~ 64
+	RedstonePrice = 2
+	#Number of Redstone Torch for Engineer trade
+	# Default: 2
+	# Range: 1 ~ 64
+	RedstoneTorchAmount = 2
+	#Price of Redstone Torch for Engineer trade
+	# Default: 3
+	# Range: 1 ~ 64
+	RedstoneTorchPrice = 3
+	#Number of Tripwire Hook for Engineer trade
+	# Default: 6
+	# Range: 1 ~ 64
+	TripwireHookAmount = 6
+	#Price of Tripwire Hook for Engineer trade
+	# Default: 3
+	# Range: 1 ~ 64
+	TripwireHookPrice = 3
+	#Number of Lever for Engineer trade
+	# Default: 2
+	# Range: 1 ~ 64
+	LeverAmount = 2
+	#Price of Lever for Engineer trade
+	# Default: 2
+	# Range: 1 ~ 64
+	LeverPrice = 2
+	#Number of Heavy Pressure Plate for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	HeavyPressurePlateAmount = 1
+	#Price of Heavy Pressure Plate for Engineer trade
+	# Default: 3
+	# Range: 1 ~ 64
+	HeavyPressurePlatePrice = 3
+	#Number of Light Pressure Plate for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	LightPressurePlateAmount = 1
+	#Price of Light Pressure Plate for Engineer trade
+	# Default: 3
+	# Range: 1 ~ 64
+	LightPressurePlatePrice = 3
+	#Number of Note Block for Engineer trade
+	# Default: 2
+	# Range: 1 ~ 64
+	NoteBlockAmount = 2
+	#Price of Note Block for Engineer trade
+	# Default: 5
+	# Range: 1 ~ 64
+	NoteBlockPrice = 5
+	#Number of Target for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	TargetAmount = 1
+	#Price of Target for Engineer trade
+	# Default: 5
+	# Range: 1 ~ 64
+	TargetPrice = 5
+	#Number of Lectern for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	LecternAmount = 1
+	#Price of Lectern for Engineer trade
+	# Default: 5
+	# Range: 1 ~ 64
+	LecternPrice = 5
+	#Number of Lightning Rod for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	LightningRodAmount = 1
+	#Price of Lightning Rod for Engineer trade
+	# Default: 5
+	# Range: 1 ~ 64
+	LightningRodPrice = 5
+	#Number of Dropper for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	DropperAmount = 1
+	#Price of Dropper for Engineer trade
+	# Default: 8
+	# Range: 1 ~ 64
+	DropperPrice = 8
+	#Number of Slime Block for Engineer trade
+	# Default: 2
+	# Range: 1 ~ 64
+	SlimeBlockAmount = 2
+	#Price of Slime Block for Engineer trade
+	# Default: 8
+	# Range: 1 ~ 64
+	SlimeBlockPrice = 8
+	#Number of Honey Block for Engineer trade
+	# Default: 2
+	# Range: 1 ~ 64
+	HoneyBlockAmount = 2
+	#Price of Honey Block for Engineer trade
+	# Default: 8
+	# Range: 1 ~ 64
+	HoneyBlockPrice = 8
+	#Number of Daylight Detector for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	DaylightDetectorAmount = 1
+	#Price of Daylight Detector for Engineer trade
+	# Default: 8
+	# Range: 1 ~ 64
+	DaylightDetectorPrice = 8
+	#Number of Redstone Lamp for Engineer trade
+	# Default: 2
+	# Range: 1 ~ 64
+	RedstoneLampAmount = 2
+	#Price of Redstone Lamp for Engineer trade
+	# Default: 7
+	# Range: 1 ~ 64
+	RedstoneLampPrice = 7
+	#Number of Trapped Chest for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	TrappedChestAmount = 1
+	#Price of Trapped Chest for Engineer trade
+	# Default: 7
+	# Range: 1 ~ 64
+	TrappedChestPrice = 7
+	#Number of Shelf block for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	ShelfAmount = 1
+	#Price of Shelf block for Engineer trade
+	# Default: 8
+	# Range: 1 ~ 64
+	ShelfPrice = 8
+	#Number of Copper Chests for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	CopperChestAmount = 1
+	#Price of Copper Chests for Engineer trade
+	# Default: 12
+	# Range: 1 ~ 64
+	CopperChestPrice = 12
+	#Number of Copper Statues for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	CopperStatueAmount = 1
+	#Price of Copper Statues for Engineer trade
+	# Default: 28
+	# Range: 1 ~ 64
+	CopperStatuePrice = 28
+	#Number of Repeater for Engineer trade
+	# Default: 2
+	# Range: 1 ~ 64
+	RepeaterAmount = 2
+	#Price of Repeater for Engineer trade
+	# Default: 10
+	# Range: 1 ~ 64
+	RepeaterPrice = 10
+	#Number of Comparator for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	ComparatorAmount = 1
+	#Price of Comparator for Engineer trade
+	# Default: 10
+	# Range: 1 ~ 64
+	ComparatorPrice = 10
+	#Number of Hopper for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	HopperAmount = 1
+	#Price of Hopper for Engineer trade
+	# Default: 12
+	# Range: 1 ~ 64
+	HopperPrice = 12
+	#Number of Piston for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	PistonAmount = 1
+	#Price of Piston for Engineer trade
+	# Default: 12
+	# Range: 1 ~ 64
+	PistonPrice = 12
+	#Number of Sculk Sensor for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	SculkSensorAmount = 1
+	#Price of Sculk Sensor for Engineer trade
+	# Default: 12
+	# Range: 1 ~ 64
+	SculkSensorPrice = 12
+	#Number of Calibrated Sculk Sensor for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	CalibratedSculkSensorAmount = 1
+	#Price of Calibrated Sculk Sensor for Engineer trade
+	# Default: 25
+	# Range: 1 ~ 64
+	CalibratedSculkSensorPrice = 25
+	#Number of Crafter for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	CrafterAmount = 1
+	#Price of Crafter for Engineer trade
+	# Default: 12
+	# Range: 1 ~ 64
+	CrafterPrice = 12
+	#Number of Copper Bulb for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	CopperBulbAmount = 1
+	#Price of Copper Bulb for Engineer trade
+	# Default: 12
+	# Range: 1 ~ 64
+	CopperBulbPrice = 12
+	#Number of Dispenser for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	DispenserAmount = 1
+	#Price of Dispenser for Engineer trade
+	# Default: 12
+	# Range: 1 ~ 64
+	DispenserPrice = 12
+	#Number of Observer for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	ObserverAmount = 1
+	#Price of Observer for Engineer trade
+	# Default: 16
+	# Range: 1 ~ 64
+	ObserverPrice = 16
+	#Number of Sticky Piston for Engineer trade
+	# Default: 1
+	# Range: 1 ~ 64
+	StickyPistonAmount = 1
+	#Price of Sticky Piston for Engineer trade
+	# Default: 14
+	# Range: 1 ~ 64
+	StickyPistonPrice = 14
+	#Number of TNT for Engineer trade
+	# Default: 2
+	# Range: 1 ~ 64
+	TNTAmount = 2
+	#Price of TNT for Engineer trade
+	# Default: 8
+	# Range: 1 ~ 64
+	TNTPrice = 8
+
+["Emberist Trades"]
+	#Number of Netherrack Emberist buy
+	# Default: 12
+	# Range: 1 ~ 64
+	NetherrackAmount = 12
+	#Number of Emeralds Emberist trade Netherrack for
+	# Default: 1
+	# Range: 1 ~ 64
+	NetherrackPrice = 1
+	#Number of Crimson Fungus for Emberist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	CrimsonFungusAmount = 4
+	#Price of Crimson Fungus for Emberist trade
+	# Default: 3
+	# Range: 1 ~ 64
+	CrimsonFungusPrice = 3
+	#Number of Warped Fungus for Emberist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	WarpedFungusAmount = 4
+	#Price of Warped Fungus for Emberist trade
+	# Default: 3
+	# Range: 1 ~ 64
+	WarpedFungusPrice = 3
+	#Number of Weeping Vines for Emberist trade
+	# Default: 3
+	# Range: 1 ~ 64
+	WeepingVinesAmount = 3
+	#Price of Weeping Vines for Emberist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	WeepingVinesPrice = 2
+	#Number of Twisting Vines for Emberist trade
+	# Default: 3
+	# Range: 1 ~ 64
+	TwistingVinesAmount = 3
+	#Price of Twisting Vines for Emberist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	TwistingVinesPrice = 2
+	#Number of Nether Sprouts for Emberist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	NetherSproutsAmount = 4
+	#Price of Nether Sprouts for Emberist trade
+	# Default: 5
+	# Range: 1 ~ 64
+	NetherSproutsPrice = 5
+	#Number of Crimson Roots for Emberist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	CrimsonRootsAmount = 4
+	#Price of Crimson Roots for Emberist trade
+	# Default: 3
+	# Range: 1 ~ 64
+	CrimsonRootsPrice = 3
+	#Number of Warped Roots for Emberist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	WarpedRootsAmount = 4
+	#Price of Warped Roots for Emberist trade
+	# Default: 3
+	# Range: 1 ~ 64
+	WarpedRootsPrice = 3
+	#Number of Soul Sand for Emberist trade
+	# Default: 6
+	# Range: 1 ~ 64
+	SoulSandAmount = 6
+	#Price of Soul Sand for Emberist trade
+	# Default: 8
+	# Range: 1 ~ 64
+	SoulSandPrice = 8
+	#Number of Soul Soil for Emberist trade
+	# Default: 6
+	# Range: 1 ~ 64
+	SoulSoilAmount = 6
+	#Price of Soul Soil for Emberist trade
+	# Default: 8
+	# Range: 1 ~ 64
+	SoulSoilPrice = 8
+	#Number of Crimson Stem for Emberist trade
+	# Default: 3
+	# Range: 1 ~ 64
+	CrimsonStemAmount = 3
+	#Price of Crimson Stem for Emberist trade
+	# Default: 12
+	# Range: 1 ~ 64
+	CrimsonStemPrice = 12
+	#Number of Warped Stem for Emberist trade
+	# Default: 3
+	# Range: 1 ~ 64
+	WarpedStemAmount = 3
+	#Price of Warped Stem for Emberist trade
+	# Default: 12
+	# Range: 1 ~ 64
+	WarpedStemPrice = 12
+	#Number of Nether Wart for Emberist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	NetherWartAmount = 4
+	#Price of Nether Wart for Emberist trade
+	# Default: 6
+	# Range: 1 ~ 64
+	NetherWartPrice = 6
+	#Number of Basalt for Emberist trade
+	# Default: 8
+	# Range: 1 ~ 64
+	BasaltAmount = 8
+	#Price of Basalt for Emberist trade
+	# Default: 5
+	# Range: 1 ~ 64
+	BasaltPrice = 5
+	#Number of Blackstone for Emberist trade
+	# Default: 6
+	# Range: 1 ~ 64
+	BlackstoneAmount = 6
+	#Price of Blackstone for Emberist trade
+	# Default: 5
+	# Range: 1 ~ 64
+	BlackstonePrice = 5
+	#Number of Warped Wart Block for Emberist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	WarpedWartBlockAmount = 4
+	#Price of Warped Wart Block for Emberist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	WarpedWartBlockPrice = 4
+	#Number of Nether Wart Block for Emberist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	NetherWartBlockAmount = 4
+	#Price of Nether Wart Block for Emberist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	NetherWartBlockPrice = 4
+	#Number of Crimson Nylium for Emberist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	CrimsonNyliumAmount = 2
+	#Price of Crimson Nylium for Emberist trade
+	# Default: 8
+	# Range: 1 ~ 64
+	CrimsonNyliumPrice = 8
+	#Number of Warped Nylium for Emberist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	WarpedNyliumAmount = 2
+	#Price of Warped Nylium for Emberist trade
+	# Default: 8
+	# Range: 1 ~ 64
+	WarpedNyliumPrice = 8
+	#Number of Gilded Blackstone for Emberist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	GildedBlackstoneAmount = 1
+	#Price of Gilded Blackstone for Emberist trade
+	# Default: 12
+	# Range: 1 ~ 64
+	GildedBlackstonePrice = 12
+	#Number of Magma Block for Emberist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	MagmaBlockAmount = 4
+	#Price of Magma Block for Emberist trade
+	# Default: 6
+	# Range: 1 ~ 64
+	MagmaBlockPrice = 6
+	#Number of Crying Obsidian for Emberist trade
+	# Default: 2
+	# Range: 1 ~ 64
+	CryingObsidianAmount = 2
+	#Price of Crying Obsidian for Emberist trade
+	# Default: 12
+	# Range: 1 ~ 64
+	CryingObsidianPrice = 12
+	#Number of Nether Bricks for Emberist trade
+	# Default: 6
+	# Range: 1 ~ 64
+	NetherBricksAmount = 6
+	#Price of Nether Bricks for Emberist trade
+	# Default: 10
+	# Range: 1 ~ 64
+	NetherBricksPrice = 10
+	#Number of Red Nether Bricks for Emberist trade
+	# Default: 4
+	# Range: 1 ~ 64
+	RedNetherBricksAmount = 4
+	#Price of Red Nether Bricks for Emberist trade
+	# Default: 10
+	# Range: 1 ~ 64
+	RedNetherBricksPrice = 10
+	#Number of Quartz for Emberist trade
+	# Default: 6
+	# Range: 1 ~ 64
+	QuartzAmount = 6
+	#Price of Quartz for Emberist trade
+	# Default: 8
+	# Range: 1 ~ 64
+	QuartzPrice = 8
+	#Number of Blaze Rod for Emberist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	BlazeRodAmount = 1
+	#Price of Blaze Rod for Emberist trade
+	# Default: 10
+	# Range: 1 ~ 64
+	BlazeRodPrice = 10
+	#Number of Respawn Anchor for Emberist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	RespawnAnchorAmount = 1
+	#Price of Respawn Anchor for Emberist trade
+	# Default: 24
+	# Range: 1 ~ 64
+	RespawnAnchorPrice = 24
+	#Number of Piglin Head for Emberist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	PiglinHeadAmount = 1
+	#Price of Piglin Head for Emberist trade
+	# Default: 32
+	# Range: 1 ~ 64
+	PiglinHeadPrice = 32
+	#Number of Pigstep for Emberist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	PigstepAmount = 1
+	#Price of Pigstep for Emberist trade
+	# Default: 32
+	# Range: 1 ~ 64
+	PigstepPrice = 32
+	#Number of Lodestone for Emberist trade
+	# Default: 1
+	# Range: 1 ~ 64
+	LodestoneAmount = 1
+	#Price of Lodestone for Emberist trade
+	# Default: 10
+	# Range: 1 ~ 64
+	LodestonePrice = 10
+
+["Tide Master Trades"]
+	#Number of Sea Grass Tide Master buy
+	# Default: 2
+	# Range: 1 ~ 64
+	SeagrassAmount = 2
+	#Number of Emeralds Tide Master trade Sea Grass for
+	# Default: 1
+	# Range: 1 ~ 64
+	SeagrassPrice = 1
+	#Number of Kelp Tide Master buy
+	# Default: 8
+	# Range: 1 ~ 64
+	KelpAmount = 8
+	#Number of Emeralds Tide Master trade Kelp for
+	# Default: 1
+	# Range: 1 ~ 64
+	KelpPrice = 1
+	#Number of Lily Pad Tide Master buy
+	# Default: 4
+	# Range: 1 ~ 64
+	LilyPadAmount = 4
+	#Number of Emeralds Tide Master trade Lily Pad for
+	# Default: 1
+	# Range: 1 ~ 64
+	LilyPadPrice = 1
+	#Number of Sea Pickles for Tide Master trade
+	# Default: 1
+	# Range: 1 ~ 64
+	SeaPickleAmount = 1
+	#Price of Sea Pickles for Tide Master trade
+	# Default: 2
+	# Range: 1 ~ 64
+	SeaPicklePrice = 2
+	#Number of Dried Kelp Blocks for Tide Master trade
+	# Default: 6
+	# Range: 1 ~ 64
+	DriedKelpBlockAmount = 6
+	#Price of Dried Kelp Blocks for Tide Master trade
+	# Default: 1
+	# Range: 1 ~ 64
+	DriedKelpBlockPrice = 1
+	#Number of Glow Ink Sacs for Tide Master trade
+	# Default: 3
+	# Range: 1 ~ 64
+	GlowInkSacAmount = 3
+	#Price of Glow Ink Sacs for Tide Master trade
+	# Default: 6
+	# Range: 1 ~ 64
+	GlowInkSacPrice = 6
+	#Number of Ink Sacs for Tide Master trade
+	# Default: 3
+	# Range: 1 ~ 64
+	InkSacAmount = 3
+	#Price of Ink Sacs for Tide Master trade
+	# Default: 6
+	# Range: 1 ~ 64
+	InkSacPrice = 6
+	#Number of Packed Ice for Tide Master trade
+	# Default: 1
+	# Range: 1 ~ 64
+	PackedIceAmount = 1
+	#Price of Packed Ice for Tide Master trade
+	# Default: 12
+	# Range: 1 ~ 64
+	PackedIcePrice = 12
+	#Number of Ice for Tide Master trade
+	# Default: 1
+	# Range: 1 ~ 64
+	IceAmount = 1
+	#Price of Ice for Tide Master trade
+	# Default: 6
+	# Range: 1 ~ 64
+	IcePrice = 6
+	#Number of Heart of the Sea for Tide Master trade
+	# Default: 1
+	# Range: 1 ~ 64
+	HeartOfTheSeaAmount = 1
+	#Price of Heart of the Sea for Tide Master trade
+	# Default: 28
+	# Range: 1 ~ 64
+	HeartOfTheSeaPrice = 28
+	#Number of Nautilus Shells for Tide Master trade
+	# Default: 2
+	# Range: 1 ~ 64
+	NautilusShellAmount = 2
+	#Price of Nautilus Shells for Tide Master trade
+	# Default: 22
+	# Range: 1 ~ 64
+	NautilusShellPrice = 22
+	#Number of Tadpole Buckets for Ocean trade
+	# Default: 1
+	# Range: 1 ~ 64
+	TadpoleBucketAmount = 1
+	#Price of Tadpole Buckets for Ocean trade
+	# Default: 12
+	# Range: 1 ~ 64
+	TadpoleBucketPrice = 12
+	#Number of Axolotl Buckets for Ocean trade
+	# Default: 1
+	# Range: 1 ~ 64
+	AxolotlBucketAmount = 1
+	#Price of Axolotl Buckets for Ocean trade
+	# Default: 12
+	# Range: 1 ~ 64
+	AxolotlBucketPrice = 12
+	#Number of Cod Buckets for Ocean trade
+	# Default: 1
+	# Range: 1 ~ 64
+	CodBucketAmount = 1
+	#Price of Cod Buckets for Ocean trade
+	# Default: 12
+	# Range: 1 ~ 64
+	CodBucketPrice = 12
+	#Number of Pufferfish Buckets for Ocean trade
+	# Default: 1
+	# Range: 1 ~ 64
+	PufferfishBucketAmount = 1
+	#Price of Pufferfish Buckets for Ocean trade
+	# Default: 12
+	# Range: 1 ~ 64
+	PufferfishBucketPrice = 12
+	#Number of Salmon Buckets for Ocean trade
+	# Default: 1
+	# Range: 1 ~ 64
+	SalmonBucketAmount = 1
+	#Price of Salmon Buckets for Ocean trade
+	# Default: 12
+	# Range: 1 ~ 64
+	SalmonBucketPrice = 12
+	#Number of Tropical Fish Buckets for Ocean trade
+	# Default: 1
+	# Range: 1 ~ 64
+	TropicalFishBucketAmount = 1
+	#Price of Tropical Fish Buckets for Ocean trade
+	# Default: 12
+	# Range: 1 ~ 64
+	TropicalFishBucketPrice = 12
+	#Number of Sponges for Ocean trade
+	# Default: 4
+	# Range: 1 ~ 64
+	SpongeAmount = 4
+	#Price of Sponges for Ocean trade
+	# Default: 20
+	# Range: 1 ~ 64
+	SpongePrice = 20
+	#Number of Prismarine Bricks for Ocean trade
+	# Default: 4
+	# Range: 1 ~ 64
+	PrismarineBricksAmount = 4
+	#Price of Prismarine Bricks for Ocean trade
+	# Default: 8
+	# Range: 1 ~ 64
+	PrismarineBricksPrice = 8
+	#Number of Dark Prismarine for Ocean trade
+	# Default: 4
+	# Range: 1 ~ 64
+	DarkPrismarineAmount = 4
+	#Price of Dark Prismarine for Ocean trade
+	# Default: 12
+	# Range: 1 ~ 64
+	DarkPrismarinePrice = 12
+	#Number of Prismarine for Ocean trade
+	# Default: 4
+	# Range: 1 ~ 64
+	PrismarineAmount = 4
+	#Price of Prismarine for Ocean trade
+	# Default: 6
+	# Range: 1 ~ 64
+	PrismarinePrice = 6
+	#Number of Sea Lanterns for Ocean trade
+	# Default: 4
+	# Range: 1 ~ 64
+	SeaLanternAmount = 4
+	#Price of Sea Lanterns for Ocean trade
+	# Default: 12
+	# Range: 1 ~ 64
+	SeaLanternPrice = 12
+	#Number of Brain Coral for Ocean trade
+	# Default: 4
+	# Range: 1 ~ 64
+	BrainCoralAmount = 4
+	#Price of Brain Coral for Ocean trade
+	# Default: 5
+	# Range: 1 ~ 64
+	BrainCoralPrice = 5
+	#Number of Bubble Coral for Ocean trade
+	# Default: 4
+	# Range: 1 ~ 64
+	BubbleCoralAmount = 4
+	#Price of Bubble Coral for Ocean trade
+	# Default: 5
+	# Range: 1 ~ 64
+	BubbleCoralPrice = 5
+	#Number of Fire Coral for Ocean trade
+	# Default: 4
+	# Range: 1 ~ 64
+	FireCoralAmount = 4
+	#Price of Fire Coral for Ocean trade
+	# Default: 5
+	# Range: 1 ~ 64
+	FireCoralPrice = 5
+	#Number of Horn Coral for Ocean trade
+	# Default: 4
+	# Range: 1 ~ 64
+	HornCoralAmount = 4
+	#Price of Horn Coral for Ocean trade
+	# Default: 5
+	# Range: 1 ~ 64
+	HornCoralPrice = 5
+	#Number of Tube Coral for Ocean trade
+	# Default: 4
+	# Range: 1 ~ 64
+	TubeCoralAmount = 4
+	#Price of Tube Coral for Ocean trade
+	# Default: 5
+	# Range: 1 ~ 64
+	TubeCoralPrice = 5
+	#Number of Brain Coral Blocks for Ocean trade
+	# Default: 4
+	# Range: 1 ~ 64
+	BrainCoralBlockAmount = 4
+	#Price of Brain Coral Blocks for Ocean trade
+	# Default: 5
+	# Range: 1 ~ 64
+	BrainCoralBlockPrice = 5
+	#Number of Bubble Coral Blocks for Ocean trade
+	# Default: 4
+	# Range: 1 ~ 64
+	BubbleCoralBlockAmount = 4
+	#Price of Bubble Coral Blocks for Ocean trade
+	# Default: 5
+	# Range: 1 ~ 64
+	BubbleCoralBlockPrice = 5
+	#Number of Fire Coral Blocks for Ocean trade
+	# Default: 4
+	# Range: 1 ~ 64
+	FireCoralBlockAmount = 4
+	#Price of Fire Coral Blocks for Ocean trade
+	# Default: 5
+	# Range: 1 ~ 64
+	FireCoralBlockPrice = 5
+	#Number of Horn Coral Blocks for Ocean trade
+	# Default: 4
+	# Range: 1 ~ 64
+	HornCoralBlockAmount = 4
+	#Price of Horn Coral Blocks for Ocean trade
+	# Default: 5
+	# Range: 1 ~ 64
+	HornCoralBlockPrice = 5
+	#Number of Tube Coral Blocks for Ocean trade
+	# Default: 4
+	# Range: 1 ~ 64
+	TubeCoralBlockAmount = 4
+	#Price of Tube Coral Blocks for Ocean trade
+	# Default: 5
+	# Range: 1 ~ 64
+	TubeCoralBlockPrice = 5
+	#Number of Brain Coral Fans for Ocean trade
+	# Default: 6
+	# Range: 1 ~ 64
+	BrainCoralFanAmount = 6
+	#Price of Brain Coral Fans for Ocean trade
+	# Default: 8
+	# Range: 1 ~ 64
+	BrainCoralFanPrice = 8
+	#Number of Bubble Coral Fans for Ocean trade
+	# Default: 6
+	# Range: 1 ~ 64
+	BubbleCoralFanAmount = 6
+	#Price of Bubble Coral Fans for Ocean trade
+	# Default: 8
+	# Range: 1 ~ 64
+	BubbleCoralFanPrice = 8
+	#Number of Fire Coral Fans for Ocean trade
+	# Default: 6
+	# Range: 1 ~ 64
+	FireCoralFanAmount = 6
+	#Price of Fire Coral Fans for Ocean trade
+	# Default: 8
+	# Range: 1 ~ 64
+	FireCoralFanPrice = 8
+	#Number of Horn Coral Fans for Ocean trade
+	# Default: 6
+	# Range: 1 ~ 64
+	HornCoralFanAmount = 6
+	#Price of Horn Coral Fans for Ocean trade
+	# Default: 8
+	# Range: 1 ~ 64
+	HornCoralFanPrice = 8
+	#Number of Tube Coral Fans for Ocean trade
+	# Default: 6
+	# Range: 1 ~ 64
+	TubeCoralFanAmount = 6
+	#Price of Tube Coral Fans for Ocean trade
+	# Default: 8
+	# Range: 1 ~ 64
+	TubeCoralFanPrice = 8
+
+[Structures]
+	#Can The Florist House Spawn in Villages
+	CanFloristHouse = true
+	#The Spawn Weight of the Florist House in Villages
+	# Default: 4
+	# Range: > 0
+	FloristHouseWeight = 4
+	#Can The Miner House Spawn in Villages
+	CanMinerHouse = true
+	#The Spawn Weight of the Miner House in Villages
+	# Default: 2
+	# Range: > 0
+	MinerHouseWeight = 2
+	#Can The Lumber Jack House Spawn in Villages
+	CanLumberJackHouse = true
+	#The Spawn Weight of the Lumber Jack House in Villages
+	# Default: 4
+	# Range: > 0
+	LumberJackHouseWeight = 4
+	#Can The Engineer House Spawn in Villages
+	CanEngineerHouse = true
+	#The Spawn Weight of the Engineer House in Villages
+	# Default: 4
+	# Range: > 0
+	EngineerHouseWeight = 4

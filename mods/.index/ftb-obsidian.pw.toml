@@ -1,0 +1,21 @@
+filename = 'ftb-obsidian-26.1.2.1.jar'
+name = 'FTB Obsidian'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'FTB Obsidian 26.1.2.1'
+
+[download]
+hash = '0d5ab8a8ff6c0a49060fdf1598204251b51c607a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7963023
+project-id = 1448262
+
+[[x-prismlauncher-dependencies]]
+addonId = '404465'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'expcounter-26.1.2-neoforge-2.5.jar'
+name = 'EXP Counter [Fabric/Forge/NeoForge]'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'expcounter-26.1.2-neoforge-2.5'
+
+[download]
+hash = '163e55267f8bb2c8dae17a8c03a3662fc4eeebe4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7902358
+project-id = 1003151
+
+[[x-prismlauncher-dependencies]]
+addonId = '1158094'
+type = 'REQUIRED'

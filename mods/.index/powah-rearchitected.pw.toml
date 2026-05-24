@@ -1,0 +1,25 @@
+filename = 'Powah-7.0.4-alpha.jar'
+name = 'Powah! (Rearchitected)'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '[NEOFORGE 26.1.2] v7.0.4-alpha'
+
+[download]
+hash = 'be3142e30305d4992d3569d966f42d684d7f54af'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8025339
+project-id = 633483
+
+[[x-prismlauncher-dependencies]]
+addonId = '1173950'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'

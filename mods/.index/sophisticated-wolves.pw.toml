@@ -1,0 +1,18 @@
+filename = 'Sophisticated-Wolves-26.1-4.1.11.jar'
+name = 'Sophisticated wolves'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Sophisticated-Wolves-4.1.11'
+
+[download]
+hash = 'b0684255c42d417128c75e42d4b5d86637f44e2b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7814344
+project-id = 220495

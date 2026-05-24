@@ -1,0 +1,35 @@
+["Configs for Sophisticated Wolves Mod"]
+	#Should sophisticated wolves breed in its own way?
+	"Custom Breeding" = true
+	#Should name tags be used for any kind of pet?
+	"Name Tag For Any Pets" = true
+	#Should sophisticated wolves be immune to cacti damage?
+	"Immune To Cacti" = true
+	#Should sophisticated wolves be immune to sweet berry bush damage?
+	"Immune To Sweet Berry Bush" = true
+	#Should sophisticated wolves walks through each other?
+	"Wolves Walks Through Each Other" = true
+	#Should sophisticated wolves walks through owner?
+	"Wolves Walks Through Owner" = true
+	#Amount of health wild sophisticated wolves have.
+	# Default: 8
+	# Range: > 1
+	"Wild Wolves Health" = 8
+	#Amount of health tamed sophisticated wolves have.
+	# Default: 50
+	# Range: > 1
+	"Tamed Wolves Health" = 50
+	#Amount of health when tamed sophisticated wolves should flee.
+	# Default: 5
+	# Range: > 0
+	"Flee Health" = 5
+	#Attack damage of tamed sophisticated wolves.
+	# Default: 5
+	# Range: > 1
+	"Tamed Wolves Damage" = 5
+	#Should non tamed sophisticated wolves attack other animals?
+	"Attack Animals" = false
+	#Always show the wolf's name.
+	"Always Show Wolves' Name" = true
+	#Enable debug mode for additional dev logs
+	"Debug Mode" = false

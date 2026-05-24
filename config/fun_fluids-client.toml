@@ -1,0 +1,10 @@
+#Should thick air be visible? (Set to true for ease of building.)
+renderThickAir = false
+#Show "fog" when submerged in thick air?
+showThickAirParticles = true
+#Should thick air particles be transparent? (will affect rendering behind fluid)
+translucentMistParticles = true
+#Frequency of thick air particles? (higher is less frequent)
+# Default: 10
+# Range: > 1
+thickAirParticleSlowDownFactor = 10

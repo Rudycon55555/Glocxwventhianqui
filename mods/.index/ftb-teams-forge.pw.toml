@@ -1,0 +1,21 @@
+filename = 'ftb-teams-neoforge-26.1.2.4.jar'
+name = 'FTB Teams'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'FTB Teams Neoforge 26.1.2.4'
+
+[download]
+hash = '4dbb1323eeff1d6a1a534e8f0c44924206bb6982'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8074003
+project-id = 404468
+
+[[x-prismlauncher-dependencies]]
+addonId = '404465'
+type = 'REQUIRED'

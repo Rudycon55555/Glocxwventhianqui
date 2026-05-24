@@ -1,0 +1,21 @@
+filename = 'alexsmobsneoforge-26.1.2-1.0.5.jar'
+name = "Alex's Mobs (NeoForge)"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Alex's Mobs NeoForge 26.1 v1.0.5"
+
+[download]
+hash = 'dee5329695024c9c4947fca5a8d5d1270347c595'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8094990
+project-id = 1512535
+
+[[x-prismlauncher-dependencies]]
+addonId = '1512529'
+type = 'REQUIRED'

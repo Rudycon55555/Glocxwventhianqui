@@ -1,0 +1,21 @@
+filename = 'flopper-26.1.2-neoforge-1.1.9.jar'
+name = 'Flopper'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'flopper-26.1.2-neoforge-1.1.9.jar'
+
+[download]
+hash = '548abd5d3192d87f082101a113660545c4f5b68a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7968348
+project-id = 290404
+
+[[x-prismlauncher-dependencies]]
+addonId = '232758'
+type = 'REQUIRED'

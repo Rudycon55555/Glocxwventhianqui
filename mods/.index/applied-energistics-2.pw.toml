@@ -1,0 +1,41 @@
+filename = 'appliedenergistics2-26.1.8-alpha.jar'
+name = 'Applied Energistics 2'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = 'AE2 26.1.8-alpha [NEOFORGE]'
+
+[download]
+hash = '8573dcb821a1e868794b462130205ac312b68a51'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8059221
+project-id = 223794
+
+[[x-prismlauncher-dependencies]]
+addonId = '1173950'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '580555'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '245211'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '440979'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '310111'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '324717'
+type = 'OPTIONAL'

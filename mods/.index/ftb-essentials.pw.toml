@@ -1,0 +1,25 @@
+filename = 'ftb-essentials-neoforge-26.1.2.3.jar'
+name = 'FTB Essentials (Forge & Fabric)'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'FTB Essentials Neoforge 26.1.2.3'
+
+[download]
+hash = '5381c49be78488623c5ab995984365ee1283ece5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7944155
+project-id = 410811
+
+[[x-prismlauncher-dependencies]]
+addonId = '404465'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '314905'
+type = 'OPTIONAL'

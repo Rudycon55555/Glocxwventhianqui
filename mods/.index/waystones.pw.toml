@@ -1,0 +1,25 @@
+filename = 'waystones-neoforge-26.1.2-26.1.2.3.jar'
+name = 'Waystones'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'waystones-neoforge-26.1.2-26.1.2.3.jar'
+
+[download]
+hash = 'dfd28e273da850c0ede9fa1fd98094065fa6f9e9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8091667
+project-id = 245755
+
+[[x-prismlauncher-dependencies]]
+addonId = '1475746'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '531761'
+type = 'REQUIRED'

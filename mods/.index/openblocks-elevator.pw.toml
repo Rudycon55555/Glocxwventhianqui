@@ -1,0 +1,21 @@
+filename = 'elevatorid-neoforge-26.1-1.16.2.jar'
+name = 'OpenBlocks Elevator'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'elevatorid-neoforge-26.1-1.16.2.jar'
+
+[download]
+hash = '3a31c5b8656d1bdd5ead18700f4a0ca76a3e1cb1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7830638
+project-id = 250832
+
+[[x-prismlauncher-dependencies]]
+addonId = '547434'
+type = 'EMBEDDED'

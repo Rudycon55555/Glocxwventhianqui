@@ -1,0 +1,18 @@
+filename = 'packetfixer-neoforge-3.3.4-26.1.jar'
+name = 'Packet Fixer'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.3.4'
+
+[download]
+hash = 'f8e2fee6824da494f4ce1a15005ddf069a63e9720977bbd3be59d6af5e53910f4716dbcf0be1f33d2ddad34b47ab77096e1995eb9c4d08b6a3218b24ebaa214e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/c7m1mi73/versions/pUoH1oJA/packetfixer-neoforge-3.3.4-26.1.jar'
+
+[update.modrinth]
+mod-id = 'c7m1mi73'
+version = 'pUoH1oJA'

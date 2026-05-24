@@ -1,0 +1,41 @@
+filename = 'Amplified_Nether_26.1_v1.2.14.jar'
+name = 'Amplified Nether'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.14'
+
+[download]
+hash = '4b065fdb8ed5c6d2e6f6e3e94e8f856d9c3e97672e09e068be492234f7dddc4f81497ba77c032a33c5b34fb9ba6bdf5e75e38c5b445ca1ef2861794ef7156a62'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wXiGiyGX/versions/rp2A0tDf/Amplified_Nether_26.1_v1.2.14.jar'
+
+[update.modrinth]
+mod-id = 'wXiGiyGX'
+version = 'rp2A0tDf'

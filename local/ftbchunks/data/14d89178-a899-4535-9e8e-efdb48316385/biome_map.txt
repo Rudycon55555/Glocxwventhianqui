@@ -1,0 +1,7 @@
+#694 terralith:cave/deep_caves
+#53B terralith:cave/mantle_caves
+#4CA minecraft:dripstone_caves
+#0E5 terralith:highlands
+#4FE biomesoplenty:prairie
+#698 biomesoplenty:redwood_forest
+#5FF minecraft:river

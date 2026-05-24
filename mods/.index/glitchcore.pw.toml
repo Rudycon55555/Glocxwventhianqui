@@ -1,0 +1,18 @@
+filename = 'GlitchCore-neoforge-26.1.2-26.1.2.0.0.jar'
+name = 'GlitchCore'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'GlitchCore NeoForge 26.1.2-26.1.2.0.0'
+
+[download]
+hash = 'b229cae5831995f836c80878aa3e01e3b90145ba'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7975606
+project-id = 955399

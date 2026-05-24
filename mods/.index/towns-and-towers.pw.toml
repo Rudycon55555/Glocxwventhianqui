@@ -1,0 +1,21 @@
+filename = 't_and_t-fabric-neoforge-1.13.11.jar'
+name = 'Towns and Towers'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '(26.1.x) Towns and Towers 1.13.11 (NeoForge/Fabric/Quilt)'
+
+[download]
+hash = '4cd47ac4de700ff8dc4d5c0cbfe9d2bf1535a92a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7886369
+project-id = 626761
+
+[[x-prismlauncher-dependencies]]
+addonId = '856996'
+type = 'REQUIRED'

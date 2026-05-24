@@ -1,0 +1,21 @@
+filename = 'many_more_ores_and_crafts-neoforge-26.1.2-2.0.0.jar'
+name = 'Many More Ores and Crafts'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'many_more_ores_and_crafts-neoforge-26.1.2-2.0.0.jar'
+
+[download]
+hash = '9acee7c96a4f768c636a23dae9453df79b866070'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8035881
+project-id = 1092861
+
+[[x-prismlauncher-dependencies]]
+addonId = '876154'
+type = 'OPTIONAL'
